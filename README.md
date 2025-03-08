@@ -34,7 +34,19 @@ This project explores COVID-19 data using MySQL to analyze global and country-sp
 - Created a rolling count of vaccinated individuals to assess the percentage of the population vaccinated over time.
 ## 🛠️ Technology Used
 - SQL (MySQL): Used for data querying, cleaning, and analysis
-## 📎 Acknowledgments
+
+## 📌 Getting Started 
+### 🔧 **Requirements** 
+- MySQL database system 🐬
+- MySQL IDE (e.g., MySQL Workbench, DBeaver) 
+- deaths and vaccinations tables containing COVID-19 data
+ 
+▶️ **How to Run** 
+- Open your MySQL IDE and connect to your database 
+- Ensure the deaths and vaccinations tables are available 
+- Run the SQL queries in sequence to analyze COVID-19 trends and vaccination progress
+
+## 📎 Acknowledegements
 - This project was inspired by [@Alex The Analyst.](https://youtu.be/qfyynHBFOsM?si=3Re1xtgMiRWKIDAG)
 - Dataset [here](https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/CovidDeaths.xlsx) & [here.](https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/CovidVaccinations.xlsx)
 
